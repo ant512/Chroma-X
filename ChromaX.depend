@@ -1,0 +1,833 @@
+# depslib dependency file v1.0
+1202134257 source:c:\chromax\source\particle.cpp
+	"particle.h"
+
+1202134257 c:\chromax\source\particle.h
+	<SDl/SDL.h>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+
+1202141657 source:c:\chromax\source\game.cpp
+	"game.h"
+	"chopper.h"
+	"rocket.h"
+	"ufo.h"
+	"plane1.h"
+	"plane2.h"
+
+1202138213 c:\chromax\source\game.h
+	<SDL/SDL.h>
+	"constants.h"
+	"particlemanager.h"
+	"playerbulletmanager.h"
+	"sdltools.h"
+	"bitmapserver.h"
+	"playermovementengine.h"
+
+1202134257 c:\chromax\source\constants.h
+
+1202134257 source:c:\chromax\main.cpp
+	<SDl/SDL.h>
+	"source/constants.h"
+	"source/game.h"
+	"source/sdltools.h"
+	"source/bitmapserver.h"
+
+1201531641 c:\chromax\source\sdlfuncs.h
+	<SDL/SDL.h>
+	"constants.h"
+
+1201531560 source:c:\chromax\source\sdlfuncs.cpp
+	"sdlfuncs.h"
+
+1202134257 source:c:\chromax\source\particlemanager.cpp
+	"particlemanager.h"
+	"particle.h"
+
+1202134257 c:\chromax\source\particlemanager.h
+	<SDL/SDL.h>
+	<vector>
+	"constants.h"
+
+1203507048 source:c:\work\repositories\gp2x\chromax\source\game.cpp
+	"game.h"
+	"chopper.h"
+	"missiontext.h"
+
+1203507127 c:\work\repositories\gp2x\chromax\source\game.h
+	<SDL/SDL.h>
+	"constants.h"
+	"particlemanager.h"
+	"bulletmanager.h"
+	"sdltools.h"
+	"bitmapserver.h"
+	"playermovementengine.h"
+	"enemymanager.h"
+	"spritemanager.h"
+	"soundplayer.h"
+	"level.h"
+	"cloudmanager.h"
+
+1203531090 c:\work\repositories\gp2x\chromax\source\constants.h
+
+1202134258 c:\work\repositories\gp2x\chromax\source\particlemanager.h
+	<SDL/SDL.h>
+	<vector>
+	"constants.h"
+
+1202578427 source:c:\work\repositories\gp2x\chromax\source\particle.cpp
+	"particle.h"
+
+1202578361 c:\work\repositories\gp2x\chromax\source\particle.h
+	<SDl/SDL.h>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+
+1201633105 c:\work\repositories\gp2x\chromax\source\sdlfuncs.h
+	<SDL/SDL.h>
+	"constants.h"
+
+1202570679 source:c:\work\repositories\gp2x\chromax\source\particlemanager.cpp
+	"particlemanager.h"
+	"particle.h"
+
+1201633101 source:c:\work\repositories\gp2x\chromax\source\sdlfuncs.cpp
+	"sdlfuncs.h"
+
+1202225853 source:c:\work\repositories\gp2x\chromax\main.cpp
+	<SDl/SDL.h>
+	"source/constants.h"
+	"source/game.h"
+	"source/sdltools.h"
+	"source/bitmapserver.h"
+	"source/soundplayer.h"
+
+1201978378 source:c:\work\repositories\gp2x\chromax\source\sprite.cpp
+	"sprite.h"
+
+1203290614 source:c:\work\repositories\gp2x\chromax\source\spritemanager.cpp
+	"spritemanager.h"
+	"gamesprite.h"
+
+1201971996 c:\work\repositories\gp2x\chromax\source\sprite.h
+	<SDl/SDL.h>
+	<vector>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+	"spritebase.h"
+	"bitmapserver.h"
+
+1202134258 source:c:\work\repositories\gp2x\chromax\source\animation.cpp
+	"animation.h"
+
+1202134258 c:\work\repositories\gp2x\chromax\source\animation.h
+	<SDL/SDL.h>
+	<vector>
+	"bitmapserver.h"
+
+1202217152 c:\work\repositories\gp2x\chromax\source\spritebase.h
+	<SDl/SDL.h>
+	"constants.h"
+	"sdltools.h"
+
+1202136940 source:c:\work\repositories\gp2x\chromax\source\spritebase.cpp
+	"spritebase.h"
+
+1201633747 source:c:\work\repositories\gp2x\chromax\source\animsprite.cpp
+	"animsprite.h"
+
+1201633749 c:\work\repositories\gp2x\chromax\source\animsprite.h
+	<SDl/SDL.h>
+	<vector>
+	"constants.h"
+	"game.h"
+	"sdlfuncs.h"
+	"spritebase.h"
+
+1202137914 c:\chromax\source\sdltools.h
+	<unistd.h>
+	<SDL/SDL.h>
+	"constants.h"
+
+1202134257 source:c:\chromax\source\animation.cpp
+	"animation.h"
+
+1202134257 c:\chromax\source\animation.h
+	<SDL/SDL.h>
+	<vector>
+	"bitmapserver.h"
+
+1201883736 source:c:\chromax\source\bulletengine.cpp
+	"bulletengine.h"
+
+1201883729 c:\chromax\source\bulletengine.h
+	<SDL/SDL.h>
+	"spritebase.h"
+
+1202136987 c:\chromax\source\spritebase.h
+	<SDl/SDL.h>
+	"constants.h"
+	"sdltools.h"
+
+1202134257 source:c:\chromax\source\enemy.cpp
+	"enemy.h"
+
+1202134480 c:\chromax\source\enemy.h
+	<SDL/SDL.h>
+	"gamesprite.h"
+	"score.h"
+	"game.h"
+
+1202134257 c:\chromax\source\movementengine.h
+	"spritebase.h"
+
+1202134257 c:\chromax\source\sprite.h
+	<SDl/SDL.h>
+	<vector>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+	"spritebase.h"
+	"bitmapserver.h"
+
+1202134257 source:c:\chromax\source\mathtools.cpp
+	"mathtools.h"
+
+1202134257 c:\chromax\source\mathtools.h
+	<SDL/SDL.h>
+
+1202902753 c:\work\repositories\gp2x\chromax\source\sdltools.h
+	<unistd.h>
+	<SDL/SDL.h>
+	"constants.h"
+
+1202915910 source:c:\work\repositories\gp2x\chromax\source\sdltools.cpp
+	"sdltools.h"
+
+1201884000 source:c:\work\repositories\gp2x\chromax\source\bulletengine.cpp
+	"bulletengine.h"
+
+1201884000 c:\work\repositories\gp2x\chromax\source\bulletengine.h
+	<SDL/SDL.h>
+	"spritebase.h"
+
+1203510023 source:c:\work\repositories\gp2x\chromax\source\enemy.cpp
+	"enemy.h"
+	"extralifepowerup.h"
+	"shieldpowerup.h"
+
+1203509619 c:\work\repositories\gp2x\chromax\source\enemy.h
+	<SDL/SDL.h>
+	"gamesprite.h"
+	"score.h"
+	"game.h"
+	"soundplayer.h"
+	"scorebubble.h"
+
+1202574843 c:\work\repositories\gp2x\chromax\source\movementengine.h
+	"spritebase.h"
+
+1202134258 source:c:\work\repositories\gp2x\chromax\source\mathtools.cpp
+	"mathtools.h"
+
+1202134258 c:\work\repositories\gp2x\chromax\source\mathtools.h
+	<SDL/SDL.h>
+
+1202574874 source:c:\work\repositories\gp2x\chromax\source\movementengine.cpp
+	"movementengine.h"
+
+1202134258 source:c:\work\repositories\gp2x\chromax\source\cannonengine.cpp
+	"cannonengine.h"
+
+1202134258 c:\work\repositories\gp2x\chromax\source\cannonengine.h
+	<SDL/SDL.h>
+	"spritebase.h"
+
+1203506799 c:\work\repositories\gp2x\chromax\source\bitmapserver.h
+	<SDL/SDL.h>
+	"sdltools.h"
+
+1203506827 source:c:\work\repositories\gp2x\chromax\source\bitmapserver.cpp
+	"bitmapserver.h"
+
+1202218287 c:\work\repositories\gp2x\chromax\source\renderengine.h
+	"spritebase.h"
+
+1202141512 source:c:\work\repositories\gp2x\chromax\source\renderengine.cpp
+	"renderengine.h"
+
+1202903682 source:c:\work\repositories\gp2x\chromax\source\gamesprite.cpp
+	"gamesprite.h"
+
+1202217411 c:\work\repositories\gp2x\chromax\source\gamesprite.h
+	<SDL/SDL.h>
+	"movementengine.h"
+	"cannonengine.h"
+	"renderengine.h"
+	"spritebase.h"
+
+1203507852 source:c:\work\repositories\gp2x\chromax\source\chopper.cpp
+	"chopper.h"
+
+1203507805 c:\work\repositories\gp2x\chromax\source\chopper.h
+	"gamesprite.h"
+	"bitmaprenderengine.h"
+	"playermovementengine.h"
+	"playercannonengine.h"
+	"blades.h"
+	"bitmapserver.h"
+	"shield.h"
+
+1202218348 source:c:\work\repositories\gp2x\chromax\source\bitmaplistrenderengine.cpp
+	"bitmaplistrenderengine.h"
+
+1202218348 c:\work\repositories\gp2x\chromax\source\bitmaplistrenderengine.h
+	<SDl/SDL.h>
+	<vector>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+	"spritebase.h"
+	"bitmapserver.h"
+	"renderengine.h"
+
+1202575037 source:c:\work\repositories\gp2x\chromax\source\playermovementengine.cpp
+	"playermovementengine.h"
+
+1202574990 c:\work\repositories\gp2x\chromax\source\playermovementengine.h
+	<SDL/SDL.h>
+	"constants.h"
+	"movementengine.h"
+	"gamesprite.h"
+
+1202218301 source:c:\work\repositories\gp2x\chromax\source\animationrenderengine.cpp
+	"animationrenderengine.h"
+
+1202218294 c:\work\repositories\gp2x\chromax\source\animationrenderengine.h
+	<SDl/SDL.h>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+	"spritebase.h"
+	"bitmapserver.h"
+	"renderengine.h"
+	"animation.h"
+
+1202564472 source:c:\work\repositories\gp2x\chromax\source\rocket.cpp
+	"rocket.h"
+
+1202217428 c:\work\repositories\gp2x\chromax\source\rocket.h
+	"enemy.h"
+	"animationrenderengine.h"
+	"basicmovementengine.h"
+
+1202217549 source:c:\work\repositories\gp2x\chromax\source\blades.cpp
+	"blades.h"
+
+1202217434 c:\work\repositories\gp2x\chromax\source\blades.h
+	"gamesprite.h"
+	"animationrenderengine.h"
+
+1202903067 source:c:\work\repositories\gp2x\chromax\source\bitmaprenderengine.cpp
+	"bitmaprenderengine.h"
+
+1202218348 c:\work\repositories\gp2x\chromax\source\bitmaprenderengine.h
+	<SDl/SDL.h>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+	"spritebase.h"
+	"bitmapserver.h"
+	"renderengine.h"
+
+1203509725 source:c:\work\repositories\gp2x\chromax\source\ufo.cpp
+	"ufo.h"
+
+1203509703 c:\work\repositories\gp2x\chromax\source\ufo.h
+	"enemy.h"
+	"animationrenderengine.h"
+	"radialcannonengine.h"
+
+1202134258 source:c:\work\repositories\gp2x\chromax\source\chopperbulletbasic.cpp
+	"chopperbulletbasic.h"
+
+1202567183 c:\work\repositories\gp2x\chromax\source\chopperbulletbasic.h
+	"bulletbase.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1203535703 source:c:\work\repositories\gp2x\chromax\source\basicmovementengine.cpp
+	"basicmovementengine.h"
+
+1203535665 c:\work\repositories\gp2x\chromax\source\basicmovementengine.h
+	<SDL/SDL.h>
+	"constants.h"
+	"movementengine.h"
+	"gamesprite.h"
+
+1202212160 c:\work\repositories\gp2x\chromax\source\playerbulletmanager.h
+	<SDL/SDL.h>
+	<vector>
+	"constants.h"
+
+1202216608 source:c:\work\repositories\gp2x\chromax\source\playerbulletmanager.cpp
+	"playerbulletmanager.h"
+	"gamesprite.h"
+
+1203521165 source:c:\work\repositories\gp2x\chromax\source\playercannonengine.cpp
+	"playercannonengine.h"
+	"chopperbulletbasic.h"
+
+1202134258 c:\work\repositories\gp2x\chromax\source\playercannonengine.h
+	<SDL/SDL.h>
+	"cannonengine.h"
+	"basicmovementengine.h"
+
+1202134258 source:c:\work\repositories\gp2x\chromax\source\enemybulletbasic.cpp
+	"enemybulletbasic.h"
+
+1202566971 c:\work\repositories\gp2x\chromax\source\enemybulletbasic.h
+	"bulletbase.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1202134258 c:\work\repositories\gp2x\chromax\source\radialcannonengine.h
+	<SDL/SDL.h>
+	"cannonengine.h"
+	"basicmovementengine.h"
+	"mathtools.h"
+
+1202227969 source:c:\work\repositories\gp2x\chromax\source\radialcannonengine.cpp
+	"radialcannonengine.h"
+	"enemybulletbasic.h"
+	"soundplayer.h"
+
+1203510076 source:c:\work\repositories\gp2x\chromax\source\plane1.cpp
+	"plane1.h"
+
+1202572191 c:\work\repositories\gp2x\chromax\source\plane1.h
+	"enemy.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+	"leftrightcurvemovementengine.h"
+
+1202564483 source:c:\work\repositories\gp2x\chromax\source\plane2.cpp
+	"plane2.h"
+
+1202134258 c:\work\repositories\gp2x\chromax\source\plane2.h
+	"enemy.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1202229446 c:\work\repositories\gp2x\chromax\source\shield.h
+	"gamesprite.h"
+	"animationrenderengine.h"
+
+1202229456 source:c:\work\repositories\gp2x\chromax\source\shield.cpp
+	"shield.h"
+
+1202134257 c:\chromax\source\playerbulletmanager.h
+	<SDL/SDL.h>
+	<vector>
+	"constants.h"
+
+1202134257 c:\chromax\source\bitmapserver.h
+	<SDL/SDL.h>
+	"sdltools.h"
+
+1202134257 c:\chromax\source\playermovementengine.h
+	<SDL/SDL.h>
+	"constants.h"
+	"movementengine.h"
+	"gamesprite.h"
+
+1202141414 c:\chromax\source\gamesprite.h
+	<SDL/SDL.h>
+	"movementengine.h"
+	"cannonengine.h"
+	"renderengine.h"
+	"spritebase.h"
+
+1202134257 c:\chromax\source\cannonengine.h
+	<SDL/SDL.h>
+	"spritebase.h"
+
+1202141506 c:\chromax\source\renderengine.h
+	"spritebase.h"
+
+1202141618 source:c:\chromax\source\animationrenderengine.cpp
+	"animationrenderengine.h"
+
+1202136862 c:\chromax\source\animationrenderengine.h
+	<SDl/SDL.h>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+	"spritebase.h"
+	"bitmapserver.h"
+	"renderengine.h"
+	"animation.h"
+
+1202136776 source:c:\chromax\source\bitmaplistrenderengine.cpp
+	"bitmaplistrenderengine.h"
+
+1202136769 c:\chromax\source\bitmaplistrenderengine.h
+	<SDl/SDL.h>
+	<vector>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+	"spritebase.h"
+	"bitmapserver.h"
+	"renderengine.h"
+
+1202141578 source:c:\chromax\source\bitmaprenderengine.cpp
+	"bitmaprenderengine.h"
+
+1202136824 c:\chromax\source\bitmaprenderengine.h
+	<SDl/SDL.h>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+	"spritebase.h"
+	"bitmapserver.h"
+	"renderengine.h"
+
+1202134257 source:c:\chromax\source\bitmapserver.cpp
+	"bitmapserver.h"
+
+1202134257 source:c:\chromax\source\blades.cpp
+	"blades.h"
+
+1202134257 c:\chromax\source\blades.h
+	"gamesprite.h"
+	"animationrenderengine.h"
+
+1202134257 source:c:\chromax\source\cannonengine.cpp
+	"cannonengine.h"
+
+1202134257 source:c:\chromax\source\chopper.cpp
+	"chopper.h"
+
+1202134257 c:\chromax\source\chopper.h
+	"gamesprite.h"
+	"bitmaprenderengine.h"
+	"playermovementengine.h"
+	"playercannonengine.h"
+	"blades.h"
+	"bitmapserver.h"
+	"shield.h"
+
+1202134257 c:\chromax\source\playercannonengine.h
+	<SDL/SDL.h>
+	"cannonengine.h"
+	"basicmovementengine.h"
+
+1202134257 c:\chromax\source\basicmovementengine.h
+	<SDL/SDL.h>
+	"constants.h"
+	"movementengine.h"
+	"gamesprite.h"
+
+1202134257 c:\chromax\source\shield.h
+	"gamesprite.h"
+	"animationrenderengine.h"
+
+1202134257 source:c:\chromax\source\chopperbulletbasic.cpp
+	"chopperbulletbasic.h"
+
+1202134257 c:\chromax\source\chopperbulletbasic.h
+	"gamesprite.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1202134257 source:c:\chromax\source\enemybulletbasic.cpp
+	"enemybulletbasic.h"
+
+1202134257 c:\chromax\source\enemybulletbasic.h
+	"gamesprite.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1202134322 source:c:\chromax\source\basicmovementengine.cpp
+	"basicmovementengine.h"
+
+1202134556 c:\chromax\source\score.h
+	<SDL/SDL.h>
+
+1202134257 source:c:\chromax\source\enemymanager.cpp
+	"enemymanager.h"
+	"enemy.h"
+
+1202134257 c:\chromax\source\enemymanager.h
+	<SDL/SDL.h>
+	<vector>
+	"constants.h"
+
+1202134257 c:\chromax\source\rocket.h
+	"enemy.h"
+	"animationrenderengine.h"
+	"basicmovementengine.h"
+
+1202134258 c:\chromax\source\ufo.h
+	"enemy.h"
+	"animationrenderengine.h"
+	"radialcannonengine.h"
+
+1202134257 c:\chromax\source\radialcannonengine.h
+	<SDL/SDL.h>
+	"cannonengine.h"
+	"basicmovementengine.h"
+	"mathtools.h"
+
+1202134257 c:\chromax\source\plane1.h
+	"enemy.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1202134257 c:\chromax\source\plane2.h
+	"enemy.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1202137879 source:c:\chromax\source\gamesprite.cpp
+	"gamesprite.h"
+
+1202134257 source:c:\chromax\source\movementengine.cpp
+	"movementengine.h"
+
+1202134257 source:c:\chromax\source\plane1.cpp
+	"plane1.h"
+
+1202134257 source:c:\chromax\source\plane2.cpp
+	"plane2.h"
+
+1202134257 source:c:\chromax\source\playerbulletmanager.cpp
+	"playerbulletmanager.h"
+	"gamesprite.h"
+
+1202134257 source:c:\chromax\source\playercannonengine.cpp
+	"playercannonengine.h"
+	"chopperbulletbasic.h"
+
+1202134257 source:c:\chromax\source\playermovementengine.cpp
+	"playermovementengine.h"
+	"particlemanager.h"
+	"game.h"
+
+1202134257 source:c:\chromax\source\radialcannonengine.cpp
+	"radialcannonengine.h"
+	"enemybulletbasic.h"
+
+1202141510 source:c:\chromax\source\renderengine.cpp
+	"renderengine.h"
+
+1202134257 source:c:\chromax\source\rocket.cpp
+	"rocket.h"
+
+1202134567 source:c:\chromax\source\score.cpp
+	"score.h"
+
+1202137932 source:c:\chromax\source\sdltools.cpp
+	"sdltools.h"
+
+1202134257 source:c:\chromax\source\shield.cpp
+	"shield.h"
+
+1202134257 source:c:\chromax\source\sprite.cpp
+	"sprite.h"
+
+1202136938 source:c:\chromax\source\spritebase.cpp
+	"spritebase.h"
+
+1202134257 source:c:\chromax\source\spritemanager.cpp
+
+1202134258 source:c:\chromax\source\ufo.cpp
+	"ufo.h"
+
+1203270641 c:\work\repositories\gp2x\chromax\source\score.h
+	<SDL/SDL.h>
+	"bitmaprenderengine.h"
+	"digitwriter.h"
+
+1203272655 source:c:\work\repositories\gp2x\chromax\source\enemymanager.cpp
+	"enemymanager.h"
+	"enemy.h"
+	"rocket.h"
+	"ufo.h"
+	"plane1.h"
+	"plane2.h"
+	"gamesprite.h"
+
+1203272636 c:\work\repositories\gp2x\chromax\source\enemymanager.h
+	<SDL/SDL.h>
+	<vector>
+	"constants.h"
+
+1203274689 source:c:\work\repositories\gp2x\chromax\source\score.cpp
+	"score.h"
+	"gamesprite.h"
+
+1202567332 c:\work\repositories\gp2x\chromax\source\bulletmanager.h
+	<SDL/SDL.h>
+	<vector>
+	"constants.h"
+	"soundplayer.h"
+
+1202909625 source:c:\work\repositories\gp2x\chromax\source\bulletmanager.cpp
+	"bulletmanager.h"
+	"bulletbase.h"
+	"gamesprite.h"
+
+1203290638 c:\work\repositories\gp2x\chromax\source\spritemanager.h
+	<SDL/SDL.h>
+	<vector>
+	"constants.h"
+
+1203521322 source:c:\work\repositories\gp2x\chromax\source\soundplayer.cpp
+	"soundplayer.h"
+
+1203521125 c:\work\repositories\gp2x\chromax\source\soundplayer.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<vector>
+	"constants.h"
+	"sdltools.h"
+
+1202234869 c:\work\repositories\gp2x\chromax\source\scorebubble.h
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1202564582 source:c:\work\repositories\gp2x\chromax\source\scorebubble.cpp
+	"scorebubble.h"
+
+1203530469 c:\work\repositories\gp2x\chromax\source\level.h
+	<SDL/SDL.h>
+
+1203535929 source:c:\work\repositories\gp2x\chromax\source\level.cpp
+	"level.h"
+	"game.h"
+	"plane1.h"
+	"plane2.h"
+	"ufo.h"
+	"rocket.h"
+	"missiontext.h"
+	"basicmovementengine.h"
+	"bitmapserver.h"
+
+1202567094 c:\work\repositories\gp2x\chromax\source\bulletbase.h
+	"gamesprite.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1202567100 source:c:\work\repositories\gp2x\chromax\source\bulletbase.cpp
+	"bulletbase.h"
+
+1203289822 source:c:\work\repositories\gp2x\chromax\source\missiontext.cpp
+	"missiontext.h"
+
+1202568785 c:\work\repositories\gp2x\chromax\source\missiontext.h
+	"bitmaprenderengine.h"
+	"missiontextmovementengine.h"
+	"gamesprite.h"
+
+1202568752 c:\work\repositories\gp2x\chromax\source\missiontextmovementengine.h
+	<SDL/SDL.h>
+	"constants.h"
+	"movementengine.h"
+	"gamesprite.h"
+
+1202569030 source:c:\work\repositories\gp2x\chromax\source\missiontextmovementengine.cpp
+	"missiontextmovementengine.h"
+
+1202574911 c:\work\repositories\gp2x\chromax\source\leftrightcurvemovementengine.h
+	<SDL/SDL.h>
+	"constants.h"
+	"movementengine.h"
+	"gamesprite.h"
+
+1202574742 source:c:\work\repositories\gp2x\chromax\source\leftrightcurvemovementengine.cpp
+	"leftrightcurvemovementengine.h"
+	"mathtools.h"
+
+1202912697 source:c:\work\repositories\gp2x\chromax\source\cloudmanager.cpp
+	"cloudmanager.h"
+	"cloud.h"
+
+1203293896 source:c:\work\repositories\gp2x\chromax\source\main.cpp
+	<SDl/SDL.h>
+	"constants.h"
+	"game.h"
+	"sdltools.h"
+	"bitmapserver.h"
+	"soundplayer.h"
+	"titlescreen.h"
+
+1202912393 c:\work\repositories\gp2x\chromax\source\cloudmanager.h
+	<SDL/SDL.h>
+	<vector>
+	"constants.h"
+
+1203271133 source:c:\work\repositories\gp2x\chromax\source\cloud.cpp
+	"cloud.h"
+
+1202911946 c:\work\repositories\gp2x\chromax\source\cloud.h
+	"gamesprite.h"
+	"bitmaprenderengine.h"
+	"cloudmovementengine.h"
+
+1202911401 c:\work\repositories\gp2x\chromax\source\cloudmovementengine.h
+	<SDL/SDL.h>
+	"constants.h"
+	"basicmovementengine.h"
+	"gamesprite.h"
+
+1202911480 source:c:\work\repositories\gp2x\chromax\source\cloudmovementengine.cpp
+	"cloudmovementengine.h"
+
+1203273309 source:c:\work\repositories\gp2x\chromax\source\digitwriter.cpp
+	"digitwriter.h"
+	"gamesprite.h"
+
+1203273323 c:\work\repositories\gp2x\chromax\source\digitwriter.h
+	<SDL/SDL.h>
+	"bitmaprenderengine.h"
+
+1203293966 c:\work\repositories\gp2x\chromax\source\titlescreen.h
+	<SDL/SDL.h>
+	"gamesprite.h"
+	"bitmaprenderengine.h"
+
+1203294908 source:c:\work\repositories\gp2x\chromax\source\titlescreen.cpp
+	"titlescreen.h"
+
+1203507561 source:c:\work\repositories\gp2x\chromax\source\extralife.cpp
+	"extralife.h"
+	"chopper.h"
+
+1203508001 c:\work\repositories\gp2x\chromax\source\extralife.h
+	"gamesprite.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1203509071 source:c:\work\repositories\gp2x\chromax\source\extralifepowerup.cpp
+	"extralifepowerup.h"
+	"chopper.h"
+
+1203509057 c:\work\repositories\gp2x\chromax\source\extralifepowerup.h
+	"gamesprite.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
+1203509137 source:c:\work\repositories\gp2x\chromax\source\shieldpowerup.cpp
+	"shieldpowerup.h"
+	"chopper.h"
+
+1203509103 c:\work\repositories\gp2x\chromax\source\shieldpowerup.h
+	"gamesprite.h"
+	"bitmaprenderengine.h"
+	"basicmovementengine.h"
+
