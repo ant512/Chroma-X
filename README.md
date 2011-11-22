@@ -34,7 +34,7 @@ The Author
   Written by Antony Dzeryn.  For more info, email me at spam_mail250@yahoo.com
   (that *is* a real email address).
   
-  Check http://ant.simianzombie.com for the latest updates/other programs.
+  Check http://simianzombie.com for the latest updates/other programs.
 
 
 Requirements
